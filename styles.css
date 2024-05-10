@@ -10,10 +10,25 @@ h1{
 }
 img{
     height: auto;
-    width: 200px;;
+    width: 200px;
+    border:solid blue 5px;
+    height: auto;
+    width: 150px;
 }
 
 h2,h3{
     
     text-align: center;
+}
+
+.ingred{
+   margin: 20px;
+   display: inline;
+}
+
+.desc{
+    display: inline;
+    background-color:burlywood;
+    vertical-align:top;
+    box-sizing: border-box;
 }
